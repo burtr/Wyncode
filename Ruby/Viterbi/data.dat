@@ -1,0 +1,21 @@
+# input format:
+# first character of line is either a blank, for continuation, a "-" for 
+# a new element in a sequence, or a ^\w+: for a section tag, or a # for
+# a comment
+
+#codesep: no
+codesep: yes
+
+poly:
+- 11
+- 111
+
+input:
+- 00  01
+  110110   
+- 1110
+- 00
+- 11
+- 0000000111111111
+
+

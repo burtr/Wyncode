@@ -1,5 +1,8 @@
 #!/usr/local/bin/ruby
 
+# experiments in closures and classes
+# author: burt rosenbertt
+# created: may 2014
 
 
 # closures

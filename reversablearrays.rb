@@ -1,5 +1,10 @@
 #!/usr/local/bin/ruby
 
+# reversible array implementation
+# author: burt rosenberg
+# created: may 2014
+
+
 
 class ReversableArray < Array
 
